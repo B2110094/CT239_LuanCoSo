@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "640fe026a284c0092463f195"
+  },
+  "id_product": "6402af7bd342df67a51f9f1c",
+  "sellquantity": 25,
+  "createdAt": {
+    "$date": "2023-03-14T02:47:02.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T15:02:57.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe03da284c0092463f1ac"
+  },
+  "id_product": "63fdfe063a1bc90550b03d73",
+  "sellquantity": 17,
+  "createdAt": {
+    "$date": "2023-03-14T02:47:25.183Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T04:06:51.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe048a284c0092463f1c3"
+  },
+  "id_product": "63fdfc743a1bc90550b03d6f",
+  "sellquantity": 10,
+  "createdAt": {
+    "$date": "2023-03-14T02:47:36.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T02:47:36.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe062a284c0092463f1da"
+  },
+  "id_product": "6402ad5ed342df67a51f9f16",
+  "sellquantity": 7,
+  "createdAt": {
+    "$date": "2023-03-14T02:48:02.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T04:01:47.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe086a284c0092463f21d"
+  },
+  "id_product": "63fdfb4f3a1bc90550b03d6d",
+  "sellquantity": 22,
+  "createdAt": {
+    "$date": "2023-03-14T02:48:38.756Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T14:45:54.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe096a284c0092463f234"
+  },
+  "id_product": "63fe2e8c620a6a476935de31",
+  "sellquantity": 4,
+  "createdAt": {
+    "$date": "2023-03-14T02:48:54.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T02:48:54.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640fe09da284c0092463f24b"
+  },
+  "id_product": "63fdfdad3a1bc90550b03d71",
+  "sellquantity": 10,
+  "createdAt": {
+    "$date": "2023-03-14T02:49:01.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T01:16:51.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641069e0781837ccc35b09f7"
+  },
+  "id_product": "63fe2f93620a6a476935de39",
+  "sellquantity": 7,
+  "createdAt": {
+    "$date": "2023-03-14T12:34:40.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T12:34:40.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641069e0781837ccc35b09fc"
+  },
+  "id_product": "6402b159d342df67a51f9f1e",
+  "sellquantity": 14,
+  "createdAt": {
+    "$date": "2023-03-14T12:34:40.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T02:58:02.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641069f3781837ccc35b0a29"
+  },
+  "id_product": "63fe2ffc620a6a476935de3d",
+  "sellquantity": 5,
+  "createdAt": {
+    "$date": "2023-03-14T12:34:59.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T12:34:59.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6413d472de1fa58d4fba7a23"
+  },
+  "id_product": "63fe2fc9620a6a476935de3b",
+  "sellquantity": 5,
+  "createdAt": {
+    "$date": "2023-03-17T02:46:10.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T02:46:10.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6413d639c39d1d03ab4688b8"
+  },
+  "id_product": "6402a630d342df67a51f9efd",
+  "sellquantity": 19,
+  "createdAt": {
+    "$date": "2023-03-17T02:53:45.160Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T01:16:51.806Z"
+  },
+  "__v": 0
+}]

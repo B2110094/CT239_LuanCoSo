@@ -1,0 +1,818 @@
+[{
+  "_id": {
+    "$oid": "63fdfb4f3a1bc90550b03d6d"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_217480.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cay_cam_ngot_cua_toi/2020_12_17_16_50_30_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cay_cam_ngot_cua_toi/2020_12_17_16_50_30_6-390x510.jpg"
+  ],
+  "title": "Cây Cam Ngọt Của Tôi",
+  "author": "José Mauro de Vasconcelos",
+  "categories": "Văn Học",
+  "description": "Mở đầu bằng những thanh âm trong sáng và kết thúc lắng lại trong những nốt trầm hoài niệm, Cây cam ngọt của tôi khiến ta nhận ra vẻ đẹp thực sự của cuộc sống đến từ những điều giản dị như bông hoa trắng của cái cây sau nhà, và rằng cuộc đời thật khốn khổ nếu thiếu đi lòng yêu thương và niềm trắc ẩn. Cuốn sách kinh điển này bởi thế không ngừng khiến trái tim người đọc khắp thế giới thổn thức, kể từ khi ra mắt lần đầu năm 1968 tại Brazil.",
+  "price": 83150,
+  "createdAt": {
+    "$date": "2023-02-28T13:02:07.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T14:55:22.023Z"
+  },
+  "__v": 0,
+  "bookType": "Tiểu Thuyết",
+  " quantityonhand": 20,
+  "quantityonhand": 31
+},
+{
+  "_id": {
+    "$oid": "63fdfc743a1bc90550b03d6f"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935235226272_1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_36793.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935235226272_2.jpg"
+  ],
+  "title": "Nhà Giả Kim (Tái Bản 2020)",
+  "author": "Paulo Coelho",
+  "categories": "Văn Học",
+  "description": "“Nhưng nhà luyện kim đan không quan tâm mấy đến những điều ấy. Ông đã từng thấy nhiều người đến rồi đi, trong khi ốc đảo và sa mạc vẫn là ốc đảo và sa mạc. Ông đã thấy vua chúa và kẻ ăn xin đi qua biển cát này, cái biển cát thường xuyên thay hình đổi dạng vì gió thổi nhưng vẫn mãi mãi là biển cát mà ông đã biết từ thuở nhỏ. Tuy vậy, tự đáy lòng mình, ông không thể không cảm thấy vui trước hạnh phúc của mỗi người lữ khách, sau bao ngày chỉ có cát vàng với trời xanh nay được thấy chà là xanh tươi hiện ra trước mắt. ‘Có thể Thượng đế tạo ra sa mạc chỉ để cho con người biết quý trọng cây chà là,’ ông nghĩ.",
+  "price": 55300,
+  "createdAt": {
+    "$date": "2023-02-28T13:07:00.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-16T13:22:40.168Z"
+  },
+  "__v": 0,
+  "bookType": "Tiểu Thuyết",
+  " quantityonhand": 20,
+  "quantityonhand": 33
+},
+{
+  "_id": {
+    "$oid": "63fdfdad3a1bc90550b03d71"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_179484.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hai_so_phan___bia_cung/2022_11_22_15_35_34_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hai_so_phan___bia_cung/2022_11_22_15_35_34_11-390x510.jpg"
+  ],
+  "title": "Hai Số Phận - Bìa Cứng",
+  "author": "Jeffrey Archer",
+  "categories": "Văn Học",
+  "description": "'Hai số phận' không chỉ đơn thuần là một cuốn tiểu thuyết, đây có thể xem là 'thánh kinh' cho những người đọc và suy ngẫm, những ai không dễ dãi, không chấp nhận lối mòn.'Hai số phận' làm rung động mọi trái tim quả cảm, nó có thể làm thay đổi cả cuộc đời bạn. Đọc cuốn sách này, bạn sẽ bị chi phối bởi cá tính của hai nhân vật chính, hoặc bạn là Kane, hoặc sẽ là Abel, không thể nào nhầm lẫn. Và điều đó sẽ khiến bạn thấy được chính mình..",
+  "price": 122500,
+  "createdAt": {
+    "$date": "2023-02-28T13:12:13.972Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T02:07:40.747Z"
+  },
+  "__v": 0,
+  "bookType": "Tiểu Thuyết",
+  "quantityonhand": 17
+},
+{
+  "_id": {
+    "$oid": "63fdfe063a1bc90550b03d73"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/b/u/buoc_cham_lai_giua_the_gian_voi_va.u335.d20160817.t102115.612356.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/buoc_cham_lai_giua_the_gian_voi_va_tai_ban_2018/2022_11_23_11_31_50_5-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/buoc_cham_lai_giua_the_gian_voi_va_tai_ban_2018/2022_11_23_11_31_50_7-390x510.jpg"
+  ],
+  "title": "Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản 2018)",
+  "author": "Hae Min",
+  "categories": "Văn Học",
+  "description": "Để tự hỏi, là do thế gian này vội vàng hay do chính tâm trí bạn đang quá bận rộn? Để cầm cuốn sách nhỏ dung dị mà lắng đọng này lên, chậm rãi lật giở từng trang, thong thả khám phá những điều mà chỉ khi bước chậm lại mới có thể thấu rõ: về các mối quan hệ, về chính bản thân mình, về những trăn trở trước cuộc đời và nhân thế, về bao điều lý trí rất hiểu nhưng trái tim chưa cách nào nghe theo… Ra mắt lần đầu năm 2012, Bước chậm lại giữa thế gian vội vã của Đại đức Hae Min đã liên tục đứng đầu danh sách best-seller của nhiều trang sách trực tuyến uy tín của Hàn Quốc, trở thành cuốn sách chữa lành cho hàng triệu người trẻ luôn tất bật với nhịp sống hiện đại hối hả.",
+  "price": 59500,
+  "createdAt": {
+    "$date": "2023-02-28T13:13:42.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T04:06:13.497Z"
+  },
+  "__v": 0,
+  "bookType": "Tiểu Thuyết",
+  "quantityonhand": 0
+},
+{
+  "_id": {
+    "$oid": "63fe2e8c620a6a476935de31"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/9/7/9786043293579.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hon_nhan_doc_ban___hanh_trinh_co_1_0_2/2023_02_28_16_59_19_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hon_nhan_doc_ban___hanh_trinh_co_1_0_2/2023_02_28_16_59_19_4-390x510.jpg"
+  ],
+  "title": "Hôn Nhân Độc Bản - Hành Trình Có 1-0-2",
+  "author": "Đậu Quyên",
+  "categories": "Tâm Lý - Kỹ Năng Sống",
+  "description": "Hôn nhân – đối với nhiều người mà nói, nó luôn là một thế giới phức tạp, đầy quyền lực và bí ẩn, với sự giao thoa của lịch sử, văn hóa, xã hội, tôn giáo, thời đạ Một thế giới của thành tựu, ước mơ, tình yêu, sự tiến bộ… luôn đi kèm với những mặt tối khác như mất mát, đổ vỡ, xung đột, thù hận… Thế giới đó, với một số người - rực rỡ như mặt trời, nhưng với một số người, lại đen tối như địa ngục. Thế giới ấy thật sự đa dạng, không ngừng phát triển, như một đặc ân mà tổ tiên để lại qua hàng ngàn năm tiến hóa. Rõ ràng, chỉ loài người mới có đặc ân sống trong cảnh giới này!",
+  "price": 115200,
+  "createdAt": {
+    "$date": "2023-02-28T16:40:44.134Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-13T08:43:20.674Z"
+  },
+  "__v": 0,
+  "bookType": "Kỹ Năng Sống",
+  "quantityonhand": 17
+},
+{
+  "_id": {
+    "$oid": "63fe2ec7620a6a476935de33"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935074130631.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/lam_chu_dong_luc___lam_chu_cuoc_doi/2023_03_01_10_28_34_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/lam_chu_dong_luc___lam_chu_cuoc_doi/2023_03_01_10_28_34_5-390x510.jpg"
+  ],
+  "title": "Làm Chủ Động Lực - Làm Chủ Cuộc Đời",
+  "author": "Susan Fowler",
+  "categories": "Tâm Lý - Kỹ Năng Sống",
+  "description": "Quyển sách LÀM CHỦ ĐỘNG LỰC LÀM CHỦ CUỘC ĐỜI là lời kêu gọi đánh thức bản chất của động lực. Tôi đã tận mắt chứng kiến những người áp dụng những kỹ thuật Susan đề xuất trong quyển sách thực hành nền tảng này. Họ chuyển hóa được động lực của bản thân, đạt hiệu suất tốt hơn và hài lòng hơn khi làm việc. Susan đã vẽ ra đường đi nước bước, cho ta một cách nhìn mới mẻ và hiểu hơn về động lực, mà giống như tôi, ai cũng có thể học theo được.",
+  "price": 107100,
+  "createdAt": {
+    "$date": "2023-02-28T16:41:43.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T17:25:49.309Z"
+  },
+  "__v": 0,
+  "bookType": "Kỹ Năng Sống",
+  "quantityonhand": 15
+},
+{
+  "_id": {
+    "$oid": "63fe2f08620a6a476935de35"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935074129857.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/3_tuan_chua_lanh_cuoc_song/2023_03_01_10_26_49_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/3_tuan_chua_lanh_cuoc_song/2023_03_01_10_26_49_5-390x510.jpg"
+  ],
+  "title": "3 Tuần Chữa Lành Cuộc Sống",
+  "author": "Louise Hay",
+  "categories": "Tâm Lý - Kỹ Năng Sống",
+  "description": "Với những lời hướng dẫn và động viên ấm áp do chính tay Louise Hay viết, 3 tuần Chữa Lành Cuộc Sống – hay Phép mầu từ gương, như cách bà thường gọi – được xây dựng để giúp bạn: - Quan tâm bản thân ở cấp độ sâu - Tự tin vào sự dẫn dắt nội tâm - Nhận thức được những món quà của tâm hồn",
+  "price": 79200,
+  "createdAt": {
+    "$date": "2023-02-28T16:42:48.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-12T16:51:06.802Z"
+  },
+  "__v": 0,
+  "bookType": "Kỹ Năng Sống",
+  "quantityonhand": 17
+},
+{
+  "_id": {
+    "$oid": "63fe2f3c620a6a476935de37"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935074129925.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/thuat_noi_chuyen_tai_ban_2023/2023_03_01_10_25_49_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/thuat_noi_chuyen_tai_ban_2023/2023_03_01_10_25_49_5-390x510.jpg"
+  ],
+  "title": "Thuật Nói Chuyện (Tái Bản 2023)",
+  "author": "Tô Minh",
+  "categories": "Tâm Lý - Kỹ Năng Sống",
+  "description": "Để thành công trong cuộc sống, bạn cần rất nhiều thứ: mục tiêu đúng đắn, ý chí mạnh mẽ, năng lực chuyên môn… nhưng không thể thiếu một công cụ vô cùng hữu hiệu có thể giúp bạn vượt qua những trở ngại khi giao tiếp và xử lý các mối quan hệ xã hội, đó là thuật nói chuyện. Con người là một thực thể xã hội. Chúng ta sống trong cộng đồng và mọi thành công hay thất bại của chúng ta cũng khởi đầu và kết thúc trong đời sống cộng đồng, do đó, nghệ thuật giao tế có vai trò hết sức quan trọng đối với sự nghiệp cũng như hạnh phúc của bất kỳ ai. Bạn có thể thành công nhờ những phẩm chất ưu tú cá nhân, nhưng cũng có thể thất bại chỉ vì không biết làm cách nào để những phẩm chất ấy tỏa sáng trong đời sống hàng ngày.",
+  "price": 80100,
+  "createdAt": {
+    "$date": "2023-02-28T16:43:40.483Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T17:25:49.335Z"
+  },
+  "__v": 0,
+  "bookType": "Kỹ Năng Sống",
+  "quantityonhand": 7
+},
+{
+  "_id": {
+    "$oid": "63fe2f93620a6a476935de39"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/h/e/hello-c_c-b_n---m_nh-l_-t_i-_i-code-d_o---b_a-1.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hello_cac_ban_minh_la_toi_di_code_dao/2022_05_19_10_10_23_1-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hello_cac_ban_minh_la_toi_di_code_dao/2022_05_19_10_10_23_12-390x510.jpg"
+  ],
+  "title": "Hello Các Bạn Mình Là Tôi Đi Code Dạo",
+  "author": "Phạm Huy Hoàng",
+  "categories": "Tiểu Sử Hồi Ký",
+  "description": "Cho tới thời điểm hiện tại, IT vẫn đang là một ngành hot và là sự lựa chọn của rất nhiều các bạn học sinh, sinh viên. Tuy nhiên, cho đến nay, những nguồn tài nguyên học tập trong ngành còn quá ít. Ngoài những tài liệu học tập của trường học thì những tài liệu khác chủ yếu vẫn là các thông tin trên internet hoặc từ những kinh nghiệm của những người đi trước. Để bạn đọc có cái nhìn chân thực và rõ nét hơn về ngành IT, thông qua cuốn sách này, tác giả Phạm Huy Hoàng đã tóm tắt và chia sẻ lại những câu chuyện, bài học kinh nghiệm đã gặp, đã đúc rút được để bạn đọc tham khảo và tìm ra những điểm tương đồng với những gì mình gặp trong khi học tập và làm việc để từ đó rút ra được bài học cho riêng mình.",
+  "price": 139860,
+  "createdAt": {
+    "$date": "2023-02-28T16:45:07.040Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-13T01:58:07.638Z"
+  },
+  "__v": 0,
+  "bookType": "Câu Chuyện Cuộc Đời",
+  "quantityonhand": 14
+},
+{
+  "_id": {
+    "$oid": "63fe2fc9620a6a476935de3b"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/9/7/9786043461114.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cuoc_doi_ky_la_cua_nikola_tesla_tai_ban_2022/2022_09_26_14_32_47_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cuoc_doi_ky_la_cua_nikola_tesla_tai_ban_2022/2022_09_26_14_32_47_5-390x510.jpg"
+  ],
+  "title": "Cuộc Đời Kỳ Lạ Của Nikola Tesla (Tái Bản 2022)",
+  "author": "Nikola Tesla",
+  "categories": "Tiểu Sử Hồi Ký",
+  "description": "Được mệnh danh là “nhà khoa học điên” của giới vật lý, Tesla là người đi tiên phong đưa kỹ thuật điện, điện từ vào đời sống. Với cách tư duy kỳ lạ của mình, ông đã có đến khoảng 300 bằng phát minh, tiêu biểu như động cơ điện không đồng bộ hay lõi Tesla. Rất nhiều phát minh của Tesla đang được ứng dụng trong các thiết bị điện xung quanh ta ngày nay.Thật không dễ để hiểu thấu hết những gì đang diễn ra trong đầu Tesla, một thiên tài với trí nhớ hình ảnh, biết tám thứ tiếng và có tầm nhìn vượt thời đại. Những gì ông đã viết trong quyển sách này có thể kỳ lạ và khó tin, nhưng hãy nhớ rằng, người ta đã mất gần một thế kỷ để biết những gì Tesla đề xuất là chính xác và khả thi!Hy vọng quý bạn đọc có thể nhìn ra được điều gì đó mới mẻ trong những câu chữ của Tesla, bởi đó có thể là những hiểu biết giúp ta thay đổi cả thế giới này.",
+  "price": 65450,
+  "createdAt": {
+    "$date": "2023-02-28T16:46:01.481Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T16:27:39.563Z"
+  },
+  "__v": 0,
+  "bookType": "Câu Chuyện Cuộc Đời",
+  "quantityonhand": "20"
+},
+{
+  "_id": {
+    "$oid": "63fe2ffc620a6a476935de3d"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_244718_1_6160.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tu_kien_truc_su_thanh_bac_si_tai_hoa_ky___dam_chon_lua__dam_thanh_cong/2022_06_27_15_55_03_2-390x510.png",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tu_kien_truc_su_thanh_bac_si_tai_hoa_ky___dam_chon_lua__dam_thanh_cong/2022_06_27_15_55_03_3-390x510.png"
+  ],
+  "title": "Từ Kiến Trúc Sư Thành Bác Sĩ Tại Hoa Kỳ - Dám Chọn Lựa, Dám Thành Công",
+  "author": "BS Huỳnh Wynh Trần",
+  "categories": "Tiểu Sử Hồi Ký",
+  "description": "Từ Kiến trúc sư thành Bác sĩ tại Hoa Kỳ là quyển sách kể về hành trình cậu sinh viên chuyên Toán trường THPT Chuyên Bạc Liêu theo học Kiến trúc tại Việt Nam và tại Mỹ, đến khi quyết định từ bỏ Kiến trúc để theo đuổi con đường Y khoa – ngành học được xem là khó nhất và tốt nhất tại Mỹ. Và sau chục năm học hành miệt mài, đến nay đã trở thành một Bác sĩ ít nhiều có tiếng tăm trong cộng đồng. Những chia sẻ từ góc nhìn của người trong cuộc sẽ giúp bạn đọc phần nào hiểu được quá trình thực tế cũng như những khó khăn, nỗi niềm vui buồn trong nghề. Qua đó, hy vọng sẽ tiếp thêm động lực trên hành trình theo đuổi nghề nghiệp cho bạn. Dám lựa chọn, hết mình vì lựa chọn của bản thân, thành công sẽ đến.",
+  "price": 126000,
+  "createdAt": {
+    "$date": "2023-02-28T16:46:52.187Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T12:52:38.037Z"
+  },
+  "__v": 0,
+  "bookType": "Câu Chuyện Cuộc Đời",
+  "quantityonhand": 15
+},
+{
+  "_id": {
+    "$oid": "63fe302f620a6a476935de3f"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_44280.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/1/z1974164115137_294df22ab5ab079d0f269dbe2fc4bd5e.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_44280.jpg"
+  ],
+  "title": "CR7 - Hành Trình Lên Đỉnh Thế Giới",
+  "author": "Guillem Balague",
+  "categories": "Tiểu Sử Hồi Ký",
+  "description": "Khi sinh ra, có 4 điều mà chúng ta không có quyền được lựa chọn là: cha, mẹ, anh chị em và nơi được sinh ra. Và còn một điều nữa là đam mê của chúng ta, thứ luôn tạo động lực giúp ta hướng về phía trước. Ngoài ra, tất cả là không thực sự cần thiết.",
+  "price": 153000,
+  "createdAt": {
+    "$date": "2023-02-28T16:47:43.293Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T16:51:18.412Z"
+  },
+  "__v": 0,
+  "bookType": "Thể Thao",
+  "quantityonhand": 15
+},
+{
+  "_id": {
+    "$oid": "6402a630d342df67a51f9efd"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/8935212349208_1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/b/e/ben_xe_tai_ban_2020_2_2020_07_04_11_52_25.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/ben_xe_tai_ban_2020/2023_02_13_18_28_17_3-390x510.jpg"
+  ],
+  "title": "Bến Xe (Tái Bản 2020)",
+  "author": "Thương Thái Vi",
+  "categories": "Văn Học",
+  "bookType": "Ngôn Tình",
+  "description": "Thứ tôi có thể cho em trong cuộc đời này chỉ là danh dự trong sạch và một tương lai tươi đẹp mà thôi. Thế nhưng, nếu chúng ta có kiếp sau, nếu kiếp sau tôi có đôi mắt sáng, tôi sẽ ở bến xe này… đợi em",
+  "price": 49400,
+  "createdAt": {
+    "$date": "2023-03-04T02:00:16.985Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T01:14:02.044Z"
+  },
+  "__v": 0,
+  "quantityonhand": 13
+},
+{
+  "_id": {
+    "$oid": "6402a6f2d342df67a51f9eff"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327825253980_8932b4eb44ef84b27af60f1ff3c.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327844323643_543539ca79a56dd8c1d2d1045afc40c4.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327825282477_e9c4b69fe314d2a377ca85a5c9ef6478.jpg"
+  ],
+  "title": "Quán Cơm Tỳ Hưu Chỉ Có Vào Không Có Ra (Bộ 2 Tập)",
+  "author": "Hải Kinh Lạc",
+  "categories": "Văn Học",
+  "bookType": "Ngôn Tình",
+  "description": "Tác giả: Hải Kinh Lạc - Tự mô tả: Vận động viên cấp một quốc gia môn “ăn thịt heo tẩm bột chiên giòn”. Có hơn 148.000 người theo dõi trên nền tảng Weibo. Minh họa: Laberay .Theo nghiệp thiết kế tự do. Chuyên gia làm đẹp cho các sách “gắt nà” nổi tiếng. Đạt top 100 thiết kế được các biên tập nổi tiếng bình chọn đó nha.",
+  "price": 250000,
+  "createdAt": {
+    "$date": "2023-03-04T02:03:30.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T02:03:30.840Z"
+  },
+  "__v": 0,
+  "quantityonhand": "20"
+},
+{
+  "_id": {
+    "$oid": "6402a83fd342df67a51f9f01"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327825253980_8932b4eb44ef84b27af60f1ff3c.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327844323643_543539ca79a56dd8c1d2d1045afc40c4.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/3/z3327825282477_e9c4b69fe314d2a377ca85a5c9ef6478.jpg"
+  ],
+  "title": "Tui Ship Đối Thủ X Tui - Tặng Kèm Bookmark + Postcard",
+  "author": "PEPA",
+  "categories": "Văn Học",
+  "bookType": "Ngôn Tình",
+  "description": "Cũng chính lúc này, Vệ Ngôn Tử cùng Cố Y Lương lại bất ngờ hợp tác trong một bộ phim, hai người trong quá trình tiếp xúc dần dần nhận ra đối thủ kỳ thực chẳng giống lời đồn chút nào, vì vậy cả hai đều nảy sinh hảo cảm với đối phương, cuối cùng phát triển thành một chuỗi những câu chuyện vừa ngọt ngào đáng yêu lại vô cùng hài hước. Tui ship đôi thủ x tui” – cuốn tiểu thuyết làm nên tên tuổi của tác giả 9x PEPA. Thu hút nhiều sự quan tam từ độc giả, đồng thời cũng là tác phẩm đứng đầu bảng xếp hạng của mạng văn học Trường Bội suốt nhiều tháng liên tiếp.",
+  "price": 111300,
+  "createdAt": {
+    "$date": "2023-03-04T02:09:03.947Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T17:49:55.318Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "6402a8cdd342df67a51f9f03"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/b/i/bia-truoc-chien-tranh-tien-te-phan-1-1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/b/i/bia-truoc-chien-tranh-tien-te-phan-1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/b/i/bia_sau_chien_tranh_tien_te_phan_1.jpg"
+  ],
+  "title": "Chiến Tranh Tiền Tệ - Phần 1 - Ai Thực Sự Là Người Giàu Nhất Thế Giới? (Tái bản 2022)",
+  "author": "Song Hong Bing",
+  "categories": "Kinh Tế",
+  "bookType": "Phân Tích Kinh Tế",
+  "description": "Gấp cuốn sách lại, có thể bạn đọc sẽ có nhiều tâm trạng khác nhau. Đối với một số người, đó có thể là sự sợ hãi thế lực tài chính quốc tế và cảm giác bất an về sự chi phối của thế lực này. Với số khác thì đó có thể là một cảm giác thú vị khi khám phá ra sự thật trần trụi để từ đó có cách nhìn nhận khác nhằm xây dựng cho mình những kế hoạch đầu tư một cách hiệu quả nhất. Và cho dù bạn có lo sợ hay cảm thấy tò mò, thú vị thì “Chiến tranh tiền tệ - Ai thật sự là người giàu nhất thế giới” cũng là một cuốn sách đáng đọc. Một cuốn sách bổ ích cho các chuyên gia quản lý tài chính, các nhà quản trị doanh nghiệp, các nhà đầu tư nhỏ, các giáo viên giảng dạy về tài chính – ngân hàng cũng như sinh viên các trường kinh tế...",
+  "price": 115000,
+  "createdAt": {
+    "$date": "2023-03-04T02:11:25.591Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T02:11:25.591Z"
+  },
+  "__v": 0,
+  "quantityonhand": "20"
+},
+{
+  "_id": {
+    "$oid": "6402a91ad342df67a51f9f05"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/e/c/economix-01.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/e/c/economix-01_1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/9/8/98268645_10158404615309085_7486568153766428672_o.jpg"
+  ],
+  "title": "Economix - Các Nền Kinh Tế Vận Hành (Và Không Vận Hành) Thế Nào Và Tại Sao?",
+  "author": "Michael Goodwin",
+  "categories": "Kinh Tế",
+  "bookType": "Phân Tích Kinh Tế",
+  "description": "Nếu các bạn từng tìm cách hiểu những khái niệm kinh tế qua việc đọc vô số giáo trình kinh tế học, nhưng vẫn thấy thật khó hình dung được bức tranh toàn cảnh về bộ môn này, thì cuốn sách sẽ cung cấp cho các bạn một mảnh ghép hoàn chỉnh cho những mảnh nho nhỏ mà các bạn đã đọc qua. Chúng ta sẽ hiểu rõ hơn về những khái niệm kinh tế cơ bản cùng những học thuyết kinh tế lớn còn ảnh hưởng tới ngày nay, qua tư tưởng của các nhà kinh tế học lớn như: Adam Smith, John Keynes...",
+  "price": 101840,
+  "createdAt": {
+    "$date": "2023-03-04T02:12:42.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T02:12:42.678Z"
+  },
+  "__v": 0,
+  "quantityonhand": "20"
+},
+{
+  "_id": {
+    "$oid": "6402a976d342df67a51f9f07"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/nen_kinh_te_tang_truong_va_sup_do_nhu_the_nao_tai_ban_2020/2021_06_19_10_57_58_1-390x510.JPG",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/nen_kinh_te_tang_truong_va_sup_do_nhu_the_nao_tai_ban_2020/2021_06_19_10_57_58_3-390x510.JPG",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/nen_kinh_te_tang_truong_va_sup_do_nhu_the_nao_tai_ban_2020/2021_06_19_10_57_58_11-390x510.JPG"
+  ],
+  "title": "Nền Kinh Tế Tăng Trưởng Và Sụp Đổ Như Thế Nào? (Tái Bản 2020)",
+  "author": "Peter D Schiff, Andrew J Schiff",
+  "categories": "Kinh Tế",
+  "bookType": "Phân Tích Kinh Tế",
+  "description": "Nền Kinh Tế Tăng Trưởng Và Sụp Đổ Như Thế Nào? Hàng ngày, tất cả chúng ta đều tham gia vào các hoạt động kinh tế. Các phương tiện thông tin đại chúng như truyền hình, báo chí, internet v.v… cũng đầy rẫy những bài viết, phân tích hay đưa tin về các sự kiện kinh tế. Tuy nhiên, với đa số người dân, kinh tế học dường như vẫn là điều gì đó khó hiểu, trừu tượng, một lĩnh vực mà chỉ các “chuyên gia” mới biết và dám bàn đến mà thôi.",
+  "price": 109520,
+  "createdAt": {
+    "$date": "2023-03-04T02:14:14.459Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T14:56:59.990Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "6402aa0ad342df67a51f9f09"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/n/g/nghigiaulamgiau_110k-01_bia-1.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/n/g/nghigiaulamgiau_110k-01_bia_sau.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/2/0/20.6.26_nghi_giau_lam_giau_11k.jpg"
+  ],
+  "title": "Nghĩ Giàu & Làm Giàu (Tái Bản 2020)",
+  "author": "Napoleon Hill",
+  "categories": "Kinh Tế",
+  "bookType": "Nhân Vật - Bài Học Kinh Doanh",
+  "description": "NGHĨ GIÀU VÀ LÀM GIÀU .Think and Grow Rich - Nghĩ giàu và làm giàu là một trong những cuốn sách bán chạy nhất mọi thời đại. Đã hơn 60 triệu bản được phát hành với gần trăm ngôn ngữ trên toàn thế giới và được công nhận là cuốn sách tạo ra nhiều triệu phú, một cuốn sách truyền cảm hứng thành công nhiều hơn bất cứ cuốn sách kinh doanh nào trong lịch sử.",
+  "price": 77000,
+  "createdAt": {
+    "$date": "2023-03-04T02:16:42.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T02:16:42.614Z"
+  },
+  "__v": 0,
+  "quantityonhand": "20"
+},
+{
+  "_id": {
+    "$oid": "6402aa61d342df67a51f9f0b"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/n/x/nxbtre_full_09462021_024609.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tu_tot_den_vi_dai___jim_collins_tai_ban_2021/2021_05_14_14_13_53_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tu_tot_den_vi_dai___jim_collins_tai_ban_2021/2021_05_14_14_13_53_6-390x510.jpg"
+  ],
+  "title": "Từ Tốt Đến Vĩ Đại - Jim Collins (Tái Bản 2021)",
+  "author": "Jim Collins",
+  "categories": "Kinh Tế",
+  "bookType": "Nhân Vật - Bài Học Kinh Doanh",
+  "description": "Jim Collins cùng nhóm nghiên cứu đã miệt mài nghiên cứu những công ty có bước nhảy vọt và bền vững để rút ra những kết luận sát sườn, những yếu tố cần kíp để đưa công ty từ tốt đến vĩ đại. Đó là những yếu tố khả năng lãnh đạo, con người, văn hóa, kỷ luật, công nghệ… Những yếu tố này được nhóm nghiên cứu xem xét tỉ mỉ và kiểm chứng cụ thể qua 11 công ty nhảy vọt lên vĩ đại. Mỗi kết luận của nhóm nghiên cứu đều hữu ích, vượt thời gian, ý nghĩa vô cùng to lớn đối với mọi lãnh đạo và quản lý ở mọi loại hình công ty (từ công ty có nền tảng và xuất phát tốt đến những công ty mới khởi nghiệp), và mọi lĩnh vực ngành nghề. Đây là cuốn sách nên đọc đối với bất kỳ lãnh đạo hay quản lý nào!",
+  "price": 91000,
+  "createdAt": {
+    "$date": "2023-03-04T02:18:09.934Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T16:57:17.414Z"
+  },
+  "__v": 0,
+  "quantityonhand": 15
+},
+{
+  "_id": {
+    "$oid": "6402aaa5d342df67a51f9f0d"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/doc_het_trai_tim_tai_ban_2018/2022_11_15_10_11_15_1-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/doc_het_trai_tim_tai_ban_2018/2022_11_15_10_11_15_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/doc_het_trai_tim_tai_ban_2018/2022_11_15_10_11_15_10-390x510.jpg"
+  ],
+  "title": "Dốc Hết Trái Tim (Tái Bản 2018)",
+  "author": "Howard Schultz , Dori Jones Yang",
+  "categories": "Kinh Tế",
+  "bookType": "Nhân Vật - Bài Học Kinh Doanh",
+  "description": "Dốc hết trái tim là một quyển sách hay dành cho doanh nhân và mọi giám đốc hay lãnh đạo công ty. Tác giả đồng thời là người sáng lập của thương hiệu Starbucks, chia sẻ câu chuyện đầy cảm hứng về cuộc đời của ông từ khi còn đi học đến khi trở thành CEO của một thương hiệu nổi tiếng trên toàn thế giới. Độc giả sẽ tìm thấy nơi đây bài học về quản trị rất tuyệt vời, mà giá trị của nó vẫn còn vững vàng trong hiện tại. Những kinh nghiệm của tác giả về xây dựng một công ty có trách nhiệm xã hội đối với nhân viên, với cộng đồng và đối với môi trường sẽ cuốn hút lan truyền cảm hứng đến độc giả để họ áp dụng nó vào cuộc sống và công việc kinh doanh của mình.",
+  "price": 115000,
+  "createdAt": {
+    "$date": "2023-03-04T02:19:17.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T14:56:59.963Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "6402abc9d342df67a51f9f12"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/phut_danh_cho_cha___tai_ban_2020/2021_04_06_16_49_56_1-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/phut_danh_cho_cha___tai_ban_2020/2021_04_06_16_49_56_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/phut_danh_cho_cha___tai_ban_2020/2021_04_06_16_49_56_6-390x510.jpg"
+  ],
+  "title": "Phút Dành Cho Cha - Tái Bản 2020",
+  "author": "Spencer Johnson, M.D",
+  "categories": "Tâm Lý - Kỹ Năng Sống",
+  "bookType": "Rèn Luyện Nhân Cách",
+  "description": "Tiếp theo cuốn sách nổi tiếng với những chân lý giản dị, tư duy mới mẻ và thực tế như: Quà tặng kỳ diệu, hạt giống tâm hồn, phút nhìn lại mình... đã làm thay đổi cuộc sống tinh thần hàng triệu người trên khắp thế giới và được bạn đọc Việt Nam đánh giá rất cao, TS. Spencer Johnson tiếp tục đưa chúng ta đến với những câu chuyện gần gũi và hữu ích cho cuộc sống gia đình qua cuốn sách 'Phút Dành Cho Cha': Chỉ với một phút quan tâm và tình thương yêu đúng cách, bạn có thể làm thay đổi cuộc đời của con bạn - mang lại hạnh phúc và niềm vui cho chính mình. Cuốn sách chỉ đọc trong một giờ, nhưng có thể giúp làm thay đổi tương lai của con bạn!.",
+  "price": 49000,
+  "createdAt": {
+    "$date": "2023-03-04T02:24:09.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-12T15:50:58.335Z"
+  },
+  "__v": 0,
+  "quantityonhand": 17
+},
+{
+  "_id": {
+    "$oid": "6402ad0dd342df67a51f9f14"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_46272.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/100_ky_nang_sinh_ton/2021_02_25_16_03_44_4-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/100_ky_nang_sinh_ton/2021_02_25_16_03_44_8-390x510.jpg"
+  ],
+  "title": "100 Kỹ Năng Sinh Tồn",
+  "author": "Clint Emerson",
+  "categories": "Sách Thiếu Nhi",
+  "bookType": "Kiến Thức Bách Khoa",
+  "description": "Bạn sẽ làm gì nếu như một ngày bị mắc kẹt giữa vùng lãnh thổ có dịch bệnh hoành hành, lạc ở nơi hoang dã, bị móc túi khi đi du lịch ở đất nước xa lạ, hay phải thoát ngay khỏi một vụ hỏa hoạn ở nhà cao tầng… ? Clint Emerson – một cựu Đặc vụ SEAL, lực lượng tác chiến đặc biệt của Hải quân Hoa Kỳ – muốn bạn có được sự chuẩn bị tốt nhất trong cuốn sách 100 kỹ năng sinh tồn này.",
+  "price": 67320,
+  "createdAt": {
+    "$date": "2023-03-04T02:29:33.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T14:52:26.463Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "6402ad5ed342df67a51f9f16"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/10_van_cau_hoi_vi_sao___cuoc_song_muon_mau_tai_ban_2018/2020_06_01_16_15_49_1-390x510.JPG",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/10_van_cau_hoi_vi_sao___cuoc_song_muon_mau_tai_ban_2018/2020_06_01_16_15_49_2-390x510.JPG",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/10_van_cau_hoi_vi_sao___cuoc_song_muon_mau_tai_ban_2018/2020_06_01_16_15_49_5-390x510.JPG"
+  ],
+  "title": "10 Vạn Câu Hỏi Vì Sao - Cuộc Sống Muôn Màu (Tái Bản 2018)",
+  "author": "Tôn Nguyên Vĩ",
+  "categories": "Sách Thiếu Nhi",
+  "bookType": "Kiến Thức Bách Khoa",
+  "description": "Tuổi thơ là khoảng thời gian đẹp nhất trong cuộc đời mỗi người. Ở lứa tuổi này luôn tràn đầy hy vọng, ước mơ, cùng những ngây thơ trong sáng buổi ban đầu. Đứng trước thế giới với bao điều kỳ diệu, mang trong mình sự tò mò, khát vọng tìm hiểu, câu nói thường thấy nhất ở trẻ là “Vì sao?”. Để có thể trả lời chính xác câu hỏi của trẻ, không phải là việc đơn giản. Các nghiên cứu cho thấy, sự phát triển của bộ não trẻ diễn ra nhanh nhất vào tuổi 13 trở về trước, là một phụ huynh, khi không mang lại cho trẻ cơ hội suy nghĩ, tìm hiểu, có thể bạn sẽ phải rất ân hận! Thế giới ngày nay phát triển nhanh chóng, kho tàng kiến thức là vô hạn, luôn được đổi mới với tốc độ chóng mặt.",
+  "price": 37400,
+  "createdAt": {
+    "$date": "2023-03-04T02:30:54.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T12:52:37.984Z"
+  },
+  "__v": 0,
+  "quantityonhand": 19
+},
+{
+  "_id": {
+    "$oid": "6402ae27d342df67a51f9f18"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/o/n/one-punch-man---tap-23---that---gia.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/o/n/one-punch-man---tap-23---that---gia.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/o/n/one_punch_man_-_tap_23_-_that_-_gia_-_bookmark.jpg"
+  ],
+  "title": "One-Punch Man - Tập 23: Thật - Giả - Tặng Kèm Bookmark PVC Saitama",
+  "author": "One, Yusuke Murata",
+  "categories": "Sách Thiếu Nhi",
+  "bookType": "Manga - Comic",
+  "description": "One-Punch Man - Tập 23: Thật - Giả - Tặng Kèm Bookmark PVC Saitama. 3 kiếm sĩ đệ tử của Võ Sĩ Hạt Nhân đã tựu kế giúp biệt đội lính đánh thuê của Narinki thoát khỏi sự chi phối của Đại S Công Chúa. Trên đường đào tẩu, cả đám lại đụng độ Ma Tóc Mây!! Kiếm Sĩ Máy Khoan, Kiếm Sĩ Giáp Sắt và Lưỡi Liềm Hifi buộc phải hợp sức chiến đấu mới địch lại hắn. Trong lúc đó, sư phụ của bọn họ là Võ Sĩ Hạt Nhân cũng chạm trán một kì phùng",
+  "price": 25000,
+  "createdAt": {
+    "$date": "2023-03-04T02:34:15.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T12:52:38.012Z"
+  },
+  "__v": 0,
+  "quantityonhand": 16
+},
+{
+  "_id": {
+    "$oid": "6402aebed342df67a51f9f1a"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/c/a/cau_ma_nha_xi_hanako_-_tap_15_-_ban_dac_biet.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/c/a/cau_ma_nha_xi_-_tap_15_-_box_2_.png",
+    "https://cdn0.fahasa.com/media/catalog/product/h/a/hanako_cau_ma_nha_xi_-_tap_15_-_ban_dac_biet_keychain_2.png"
+  ],
+  "title": "'Cậu' Ma Nhà Xí Hanako - Tập 15 - Special Edition - Tặng Kèm Hộp 2 Móc Khóa Acrylic",
+  "author": "AidaIro",
+  "categories": "Sách Thiếu Nhi",
+  "bookType": "Manga - Comic",
+  "description": "Bạn thân của Nene là Aoi đã bị giam cầm tại cõi âm. Nhưng điều đó lại là tin mừng với Hanako - người luôn lo lắng về thọ mệnh ngắn ngủi của Nene. Sau khi nữ tư tế bị hiến tế, “khoảnh khắc” ấy lại ngày càng cận kề… Sau đây chính là tập 15 của những lời li biệt!",
+  "price": 150000,
+  "createdAt": {
+    "$date": "2023-03-04T02:36:46.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-12T08:48:53.789Z"
+  },
+  "__v": 0,
+  "quantityonhand": 15
+},
+{
+  "_id": {
+    "$oid": "6402af7bd342df67a51f9f1c"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tap_to_chu_mau_giao___tu_sach_be_vao_lop_1/2020_05_25_15_41_36_1-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tap_to_chu_mau_giao___tu_sach_be_vao_lop_1/2020_05_25_15_41_36_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tap_to_chu_mau_giao___tu_sach_be_vao_lop_1/2020_05_25_15_41_36_10-390x510.jpg"
+  ],
+  "title": "Tập Tô Chữ Mẫu Giáo - Tủ Sách Bé Vào Lớp 1",
+  "author": "Lê Tuệ Minh, Lê Thu Ngọc",
+  "categories": "Sách Giáo Khoa - Tham Khảo",
+  "bookType": "Tham Khảo",
+  "description": "Con bạn sắp vào lớp 1? Không chỉ bé hồi hộp mà chính bạn – những bậc làm cha mẹ cũng có tâm trạng đó. Làm sao để chuẩn bị cho bé thật tốt? Làm thế nào để bé không bỡ ngỡ khi bước vào một giai đoạn hoàn toàn mới này? Bộ sách Chuẩn bị cho bé vào lớp 1 sẽ giúp cha mẹ giải tỏa những lo lắng, băn khoăn đó. Nội dung sách gần gũi với chương trình sách giáo khoa chuẩn, bao gồm:  giúp bé luyện tay theo các nét cơ bản đầu tiên; như móc, sổ, ngang, sọc, xước, vòng, giúp bé làm quen với bảng chữ cái gồm 29 chữ theo cách viết thường và viết hoa;  ngoài ra, bé còn được làm quen với các con số và những phép tính đơn giản v.v…",
+  "price": 8000,
+  "createdAt": {
+    "$date": "2023-03-04T02:39:55.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T15:02:11.479Z"
+  },
+  "__v": 0,
+  "quantityonhand": 6
+},
+{
+  "_id": {
+    "$oid": "6402b159d342df67a51f9f1e"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/9/7/9786040311733.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tieng_anh_10_friends_global___student_book/2022_07_30_10_21_58_3-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/tieng_anh_10_friends_global___student_book/2022_07_30_10_21_58_4-390x510.jpg"
+  ],
+  "title": "Tiếng Anh 10 Friends Global - Student Book",
+  "author": "Double A",
+  "categories": "Sách Giáo Khoa - Tham Khảo",
+  "bookType": "Giáo Khoa",
+  "description": "Tiếng Anh 10 Friends Global - Student Book. Tiếng Anh 10 Friends Global là một trong bộ 3 quyển sách giáo khoa môn Tiếng Anh do Nhà xuất bản Giáo dục Việt Nam tổ chức biên soạn theo Chương trình Giáo dục Phổ thông môn Tiếng Anh cấp Trung học phổ thông (ban hành theo Thông tư số 32/2018/TT-BGDĐT, ngày 26 tháng 12 năm 2018 của Bộ trưởng Bộ Giáo dục và Đào tạo).",
+  "price": 99000,
+  "createdAt": {
+    "$date": "2023-03-04T02:47:53.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T02:57:46.161Z"
+  },
+  "__v": 0,
+  "quantityonhand": 0
+},
+{
+  "_id": {
+    "$oid": "6402b3bdd342df67a51f9f20"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_216008.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/putin___logic_cua_quyen_luc___putin_innenansichten_der_macht/2021_03_31_10_11_38_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/putin___logic_cua_quyen_luc___putin_innenansichten_der_macht/2021_03_31_10_11_38_6-390x510.jpg"
+  ],
+  "title": "Putin - Logic Của Quyền Lực - Putin: Innenansichten Der Machtk",
+  "author": "Hubert Seipel",
+  "categories": "Tiểu Sử Hồi Ký",
+  "bookType": "Chính Trị",
+  "description": "Tên gốc của tác phẩm là Putin: Innenansichten der Macht. Sách gồm 21 chương, do Hubert Seipel thực hiện trong 5 năm (từ năm 2010 đến 2015). Tác giả đã có hơn 20 buổi phỏng vấn chuyên sâu với Putin, đồng thời tháp tùng ông trên hàng chục chuyến đi trong, ngoài nước.",
+  "price": 142000,
+  "createdAt": {
+    "$date": "2023-03-04T02:58:05.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T02:58:05.173Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "6402b509d342df67a51f9f22"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/h/o/hoang_loan_hon_loan_va_cuong_loan_-01.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hoang_loan__hon_loan_va_cuong_loan/2021_06_23_07_54_47_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/hoang_loan__hon_loan_va_cuong_loan/2021_06_23_07_54_47_9-390x510.jpg"
+  ],
+  "title": "Hoảng Loạn, Hỗn Loạn Và Cuồng Loạn",
+  "author": "Charles P Kindleberger, Robert Z Aliber",
+  "categories": "Tiểu Sử Hồi Ký",
+  "bookType": "Kinh Tế",
+  "description": "Hoảng Loạn, Hỗn Loạn Và Cuồng Loạn . Charlie Kindleberger (hay còn gọi là CPK) là một người rất say mê công việc: am hiểu, trách nhiệm, mong muốn tìm hiểu mọi thứ, đầy cá tính và trên hết đó là sự năng nổ nhiệt tình. Những phẩm chất này được thể hiện xuyên suốt trong cuốn Hoảng Loạn, Hỗn Loạn Và Cuồng Loạn.",
+  "price": 152000,
+  "createdAt": {
+    "$date": "2023-03-04T03:03:37.910Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T03:03:37.910Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "640558432ae57113bce7c8bb"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/i/m/image_136965.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/m/a/ma_van_giay_vai_tai_ban_2017_3_2020_06_18_11_10_51.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/m/a/ma_van_giay_vai_tai_ban_2017_4_2020_06_18_11_10_51.jpg"
+  ],
+  "title": "Mã Vân Giày Vải (Tái Bản 2017)",
+  "author": "Lý Tường, Vương Lợi Phân",
+  "categories": "Tiểu Sử Hồi Ký",
+  "bookType": "Kinh Tế",
+  "description": "Mã Vân Giày Vải (Tái Bản 2017)  Ngày nay, ALIBABA là một tập đoàn thương mại điện tử toàn cầu với quy mô và giá trị tài sản khổng lồ (tính đến 2015 là 255.434 tỷ nhân dân tệ, tương đương 41 tỷ đô-la Mỹ), là ngọn cờ đầu trong lĩnh vực thương mại điện tử của Trung Quốc, một trong những biểu tượng mới của nền kinh tế thế giới. Đứng sau sự thành công của tập đoàn này không ai khác chính là Mã Vân - nhà sáng lập của Alibaba",
+  "price": 126000,
+  "createdAt": {
+    "$date": "2023-03-06T03:04:35.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:04:35.860Z"
+  },
+  "__v": 0,
+  "quantityonhand": 20
+},
+{
+  "_id": {
+    "$oid": "640bff07ae01d56d3e0b2036"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/n/h/nhietdoxagiao.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/n/h/nhiet_do_xa_giao_1_2022_08_03_10_06_29.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/n/h/nhiet_do_xa_giao_2_2022_08_03_10_06_29.jpg"
+  ],
+  "title": "Nhiệt Độ Xã Giao",
+  "author": "Carbeeq",
+  "categories": "Văn Học",
+  "bookType": "Ngôn Tình",
+  "description": "Phương Chiêu Mộ - một cậu trai vốn dĩ rất hoạt bát, vui vẻ trong cuộc sống nhưng vì sự ghét bỏ ngầm của Tống Viễn Tuần mà quãng đời sinh viên trao đổi tưởng chừng như đẹp đẽ của cậu hoàn toàn chấm dứt. Trở thành một người khép kín hơn, luôn thui thủi một mình và bị cô lập.  Hai con người tưởng chừng như chẳng có nổi một điểm nào có thể chạm nhau trên cuộc đời của họ thì ông mối – Triệu Hàm vừa trực tiếp lại gián tiếp se duyên cho cả hai qua phần mềm kết bạn. Từ đó Mu – Phương Chiêu Mộ và Andrew – Tống Viễn Tuần với vai diễn là chàng kỹ sư 29 tuổi quen nhau. Chính nhờ có Andrew mà cuộc sống của Phương Chiêu Mộ trở nên tươi sáng, vui vẻ và có mục đích hơn.",
+  "price": 83930,
+  "quantityonhand": 20,
+  "createdAt": {
+    "$date": "2023-03-11T04:09:43.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T04:09:43.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108bfa5a9b9d9d0e132bf4"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/8/9/893607167839.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/2/z2382507627808_b34a045272a3c69ca5308de6c0f5e6f9.jpg",
+    "https://cdn0.fahasa.com/media/catalog/product/z/2/z2382511252988_580dbd9ea042d2e8379956700fa050fd.jpg"
+  ],
+  "title": "Đảo Mộng Mơ - Ấn Bản Kỷ Niệm 10 Năm Xuất Bản Lần Đầu - Tặng Kèm Bookmark + 4 Postcard",
+  "author": "Nguyễn Nhật Ánh",
+  "categories": "Văn Học",
+  "bookType": "Tiểu Thuyết",
+  "description": "Đảo mộng mơ là một lát cắt đời sống của những đứa trẻ lên 10 giàu trí tưởng tượng như tất cả mọi đứa trẻ. Chúng mơ mộng, tưởng tượng, và tự làm “hiện thực hóa” những khao khát của mình. Câu chuyện bắt đầu từ một đống cát, và được diễn ra theo nhân vật tôi - cu Tin. Có một hòn đảo hoang, trên đảo có Chúa đảo, phu nhân Chúa đảo, và một chàng Thứ… Bảy.",
+  "price": 160000,
+  "quantityonhand": 20,
+  "createdAt": {
+    "$date": "2023-03-14T15:00:10.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T15:00:10.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108c365a9b9d9d0e132c07"
+  },
+  "img_url": [
+    "https://cdn0.fahasa.com/media/catalog/product/n/x/nxbtre_full_22142021_051437_1.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cho_toi_xin_mot_ve_di_tuoi_tho___phien_ban_dac_biet/2021_05_14_14_21_25_2-390x510.jpg",
+    "https://cdn0.fahasa.com/media/flashmagazine/images/page_images/cho_toi_xin_mot_ve_di_tuoi_tho___phien_ban_dac_biet/2021_05_14_14_21_25_3-390x510.jpg"
+  ],
+  "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ - Phiên Bản Đặc Biệt",
+  "author": "Nguyễn Nhật Ánh",
+  "categories": "Văn Học",
+  "bookType": "Tiểu Thuyết",
+  "description": "Cho Tôi Xin Một Vé Đi Tuổi Thơ - Phiên Bản Đặc Biệt  Truyện Cho tôi xin một vé đi tuổi thơ là một trong những tác phẩm bán chạy nhất nhà văn Nguyễn Nhật Ánh. Nhà văn mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ. Những trò chơi dễ thương thời bé, tính cách thật thà, thẳng thắn một cách thông minh và dại dột, những ước mơ tự do trong lòng… khiến cuốn sách có thể làm các bậc phụ huynh lo lắng rồi thở phào. Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.  Tác phẩm đạt giải thưởng văn học Asean 2010.",
+  "price": 372000,
+  "quantityonhand": 20,
+  "createdAt": {
+    "$date": "2023-03-14T15:01:10.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T15:01:10.768Z"
+  },
+  "__v": 0
+}]

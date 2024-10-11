@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "640737c0c43bfb250daebc1d"
+  },
+  "username": "TK Admin",
+  "email": "admin@gmail.com",
+  "phonenumber": "0907532754",
+  "password": "U2FsdGVkX19Y/msN41QRCNqCWaPjL6qM1Fo08T4ewDk=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-03-07T13:10:24.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-07T13:10:24.644Z"
+  },
+  "__v": 0
+}
+]

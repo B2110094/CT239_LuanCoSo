@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "640554002ae57113bce7c84d"
+  },
+  "booktype_name": "Tiểu Thuyết",
+  "category_name": "Văn Học",
+  "createdAt": {
+    "$date": "2023-03-06T02:46:24.114Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:46:24.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6405540d2ae57113bce7c857"
+  },
+  "booktype_name": "Ngôn Tình",
+  "category_name": "Văn Học",
+  "createdAt": {
+    "$date": "2023-03-06T02:46:37.720Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:46:37.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6405541b2ae57113bce7c861"
+  },
+  "booktype_name": "Phân Tích Kinh Tế",
+  "category_name": "Kinh Tế",
+  "createdAt": {
+    "$date": "2023-03-06T02:46:51.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:46:51.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640554302ae57113bce7c86b"
+  },
+  "booktype_name": "Nhân Vật - Bài Học Kinh Doanh",
+  "category_name": "Kinh Tế",
+  "createdAt": {
+    "$date": "2023-03-06T02:47:12.976Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:47:12.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6405564f2ae57113bce7c875"
+  },
+  "booktype_name": "Rèn Luyện Nhân Cách",
+  "category_name": "Tâm Lí - Kỹ Năng Sống",
+  "createdAt": {
+    "$date": "2023-03-06T02:56:15.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:56:15.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640556622ae57113bce7c87f"
+  },
+  "booktype_name": "Kiến Thức Bách Khoa",
+  "category_name": "Sách Thiếu Nhi",
+  "createdAt": {
+    "$date": "2023-03-06T02:56:34.071Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:56:34.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640556732ae57113bce7c889"
+  },
+  "booktype_name": "Manga - Comic",
+  "category_name": "Sách Thiếu Nhi",
+  "createdAt": {
+    "$date": "2023-03-06T02:56:51.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:56:51.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640556812ae57113bce7c893"
+  },
+  "booktype_name": "Tham Khảo",
+  "category_name": "Sách Giáo Khoa - Tham Khảo",
+  "createdAt": {
+    "$date": "2023-03-06T02:57:05.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:57:05.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6405568c2ae57113bce7c89d"
+  },
+  "booktype_name": "Giáo Khoa",
+  "category_name": "Sách Giáo Khoa - Tham Khảo",
+  "createdAt": {
+    "$date": "2023-03-06T02:57:16.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:57:16.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640556992ae57113bce7c8a7"
+  },
+  "booktype_name": "Chính Trị",
+  "category_name": "Tiểu Sử Hồi Ký",
+  "createdAt": {
+    "$date": "2023-03-06T02:57:29.919Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:57:29.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640556a42ae57113bce7c8b1"
+  },
+  "booktype_name": "Kinh Tế",
+  "category_name": "Tiểu Sử Hồi Ký",
+  "createdAt": {
+    "$date": "2023-03-06T02:57:40.479Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:57:40.479Z"
+  },
+  "__v": 0
+}]

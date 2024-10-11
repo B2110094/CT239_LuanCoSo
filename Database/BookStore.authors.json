@@ -1,0 +1,403 @@
+[{
+  "_id": {
+    "$oid": "64055b432ae57113bce7c8fb"
+  },
+  "author_name": "José Mauro de Vasconcelos",
+  "createdAt": {
+    "$date": "2023-03-06T03:17:23.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:17:23.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c2a2ae57113bce7c906"
+  },
+  "author_name": "Paulo Coelho",
+  "createdAt": {
+    "$date": "2023-03-06T03:21:14.311Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:21:14.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c362ae57113bce7c911"
+  },
+  "author_name": "Jeffrey Archer",
+  "createdAt": {
+    "$date": "2023-03-06T03:21:26.894Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:21:26.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c5a2ae57113bce7c91c"
+  },
+  "author_name": "Hae Min",
+  "createdAt": {
+    "$date": "2023-03-06T03:22:02.341Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:22:02.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c642ae57113bce7c927"
+  },
+  "author_name": "Đậu Quyên",
+  "createdAt": {
+    "$date": "2023-03-06T03:22:12.125Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:22:12.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c742ae57113bce7c932"
+  },
+  "author_name": "Susan Fowler",
+  "createdAt": {
+    "$date": "2023-03-06T03:22:28.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:22:28.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c822ae57113bce7c93d"
+  },
+  "author_name": "Louise Hay",
+  "createdAt": {
+    "$date": "2023-03-06T03:22:42.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:22:42.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c8e2ae57113bce7c948"
+  },
+  "author_name": "Tô Minh",
+  "createdAt": {
+    "$date": "2023-03-06T03:22:54.062Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:22:54.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055c9b2ae57113bce7c953"
+  },
+  "author_name": "Phạm Huy Hoàng",
+  "createdAt": {
+    "$date": "2023-03-06T03:23:07.181Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:23:07.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055ca52ae57113bce7c95e"
+  },
+  "author_name": "Nikola Tesla",
+  "createdAt": {
+    "$date": "2023-03-06T03:23:17.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:23:17.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d272ae57113bce7c969"
+  },
+  "author_name": "BS Huỳnh Wynh Trần",
+  "createdAt": {
+    "$date": "2023-03-06T03:25:27.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:25:27.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d2f2ae57113bce7c974"
+  },
+  "author_name": "Guillem Balague",
+  "createdAt": {
+    "$date": "2023-03-06T03:25:35.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:25:35.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d392ae57113bce7c97f"
+  },
+  "author_name": "Thương Thái Vi",
+  "createdAt": {
+    "$date": "2023-03-06T03:25:45.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:25:45.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d442ae57113bce7c98a"
+  },
+  "author_name": "Hải Kinh Lạc",
+  "createdAt": {
+    "$date": "2023-03-06T03:25:56.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:25:56.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d532ae57113bce7c995"
+  },
+  "author_name": "PEPA",
+  "createdAt": {
+    "$date": "2023-03-06T03:26:11.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:26:11.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d5b2ae57113bce7c9a0"
+  },
+  "author_name": "Song Hong Bing",
+  "createdAt": {
+    "$date": "2023-03-06T03:26:19.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:26:19.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d632ae57113bce7c9ab"
+  },
+  "author_name": "Michael Goodwin",
+  "createdAt": {
+    "$date": "2023-03-06T03:26:27.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:26:27.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d7e2ae57113bce7c9b6"
+  },
+  "author_name": "Napoleon Hill",
+  "createdAt": {
+    "$date": "2023-03-06T03:26:54.686Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:26:54.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d882ae57113bce7c9c1"
+  },
+  "author_name": "Jim Collins",
+  "createdAt": {
+    "$date": "2023-03-06T03:27:04.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:27:04.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055d952ae57113bce7c9cc"
+  },
+  "author_name": "Howard Schultz , Dori Jones Yang",
+  "createdAt": {
+    "$date": "2023-03-06T03:27:17.981Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:27:32.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055dc72ae57113bce7c9e3"
+  },
+  "author_name": "Spencer Johnson, M.D",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:07.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:07.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055dce2ae57113bce7c9ee"
+  },
+  "author_name": "Clint Emerson",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:14.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:14.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055dd62ae57113bce7c9f9"
+  },
+  "author_name": "Tôn Nguyên Vĩ",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:22.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:22.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055ddd2ae57113bce7ca04"
+  },
+  "author_name": "One, Yusuke Murata",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:29.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:29.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055de42ae57113bce7ca0f"
+  },
+  "author_name": "AidaIro",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:36.854Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:36.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055dec2ae57113bce7ca1a"
+  },
+  "author_name": "Lê Tuệ Minh, Lê Thu Ngọc",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:44.741Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:44.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055df42ae57113bce7ca25"
+  },
+  "author_name": "Double A",
+  "createdAt": {
+    "$date": "2023-03-06T03:28:52.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:28:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055fd22ae57113bce7ca30"
+  },
+  "author_name": "Hubert Seipel",
+  "createdAt": {
+    "$date": "2023-03-06T03:36:50.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:36:50.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64055fdd2ae57113bce7ca3b"
+  },
+  "author_name": "Lý Tường, Vương Lợi Phân",
+  "createdAt": {
+    "$date": "2023-03-06T03:37:01.484Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T03:37:01.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640bfea3ae01d56d3e0b2026"
+  },
+  "author_name": "Carbeeq",
+  "createdAt": {
+    "$date": "2023-03-11T04:08:03.104Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T04:08:03.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64108a685a9b9d9d0e132bc1"
+  },
+  "author_name": "Nguyễn Nhật Ánh",
+  "createdAt": {
+    "$date": "2023-03-14T14:53:28.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T14:53:28.070Z"
+  },
+  "__v": 0
+}]

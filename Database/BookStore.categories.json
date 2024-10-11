@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6404a3918715245527377035"
+  },
+  "category_name": "Văn Học",
+  "createdAt": {
+    "$date": "2023-03-05T14:13:37.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-05T15:07:49.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64054a6e4c798d9706ee4bb1"
+  },
+  "category_name": "Kinh Tế",
+  "createdAt": {
+    "$date": "2023-03-06T02:05:34.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:05:34.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64054b3c4c798d9706ee4bbd"
+  },
+  "category_name": "Tâm Lý - Kỹ Năng Sống",
+  "createdAt": {
+    "$date": "2023-03-06T02:09:00.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:09:00.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64054b544c798d9706ee4bc7"
+  },
+  "category_name": "Sách Thiếu Nhi",
+  "createdAt": {
+    "$date": "2023-03-06T02:09:24.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:09:24.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64054b674c798d9706ee4bd1"
+  },
+  "category_name": "Sách Giáo Khoa - Tham Khảo",
+  "createdAt": {
+    "$date": "2023-03-06T02:09:43.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:09:43.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64054b764c798d9706ee4bdb"
+  },
+  "category_name": "Tiểu Sử Hồi Ký",
+  "createdAt": {
+    "$date": "2023-03-06T02:09:58.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T02:09:58.858Z"
+  },
+  "__v": 0
+}]
